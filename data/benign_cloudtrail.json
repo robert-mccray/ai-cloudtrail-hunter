@@ -1,0 +1,9 @@
+{
+  "Records": [{
+    "eventTime": "2026-03-07T09:00:00Z",
+    "eventName": "DescribeInstances",
+    "userIdentity": {"type": "AssumedRole", "principalId": "Jenkins-CI-Role"},
+    "sourceIPAddress": "10.0.1.55",
+    "userAgent": "aws-cli/2.0.0 Python/3.8.2 Linux/5.4.0"
+  }]
+}

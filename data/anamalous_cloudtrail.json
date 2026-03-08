@@ -1,0 +1,10 @@
+{
+  "Records": [{
+    "eventTime": "2026-03-07T03:14:00Z",
+    "eventName": "AssumeRole",
+    "userIdentity": {"type": "IAMUser", "userName": "intern-developer-01"},
+    "requestParameters": {"roleArn": "arn:aws:iam::123456789:role/Prod-Database-Admin"},
+    "sourceIPAddress": "45.33.22.11", 
+    "userAgent": "Kali-Linux/Hydra-Script"
+  }]
+}
