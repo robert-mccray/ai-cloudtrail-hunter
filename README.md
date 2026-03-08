@@ -15,7 +15,7 @@ A proactive DevSecOps engine designed to combat alert fatigue. Ingests raw AWS C
    ```bash
    pip install requests
    ```
-Run the hunter script to parse the logs and generate the security alert:
+4. Run the hunter script to parse the logs and generate the security alert:
 
 ```Bash
 python hunter.py
